@@ -1,0 +1,25 @@
+
+NORMALIZED DATA PROCESSING SUMMARY
+==================================
+
+Source File: Halya 1_Collection For Hiring Security Guards.xlsx
+Total Residents: 147
+Total Payments: 1540
+
+Financial Summary:
+- Total Amount Collected: RM 58,382.54
+- Average Payment Amount: RM 37.91
+- Residents with Payments: 139
+
+Payment Types:
+- Annual Fee 2023: 228.0 payments, RM 19,097.54
+- Annual Fee 2024: 85.0 payments, RM 4,220.00
+- Annual Fee 2025: 2.0 payments, RM 200.00
+- Excess Payment Brought Forward: 18.0 payments, RM 1,145.00
+- Guard Fee - April 2025: 255.0 payments, RM 7,650.00
+- Guard Fee - August 2025: 91.0 payments, RM 4,830.00
+- Guard Fee - July 2025: 112.0 payments, RM 3,350.00
+- Guard Fee - June 2025: 130.0 payments, RM 3,900.00
+- Guard Fee - May 2025: 133.0 payments, RM 3,990.00
+- Guard Fee - Raya: 257.0 payments, RM 7,710.00
+- Membership Fee: 229.0 payments, RM 2,290.00

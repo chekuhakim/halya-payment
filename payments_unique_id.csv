@@ -1,0 +1,1541 @@
+resident_id,payment_date,description,amount,year,sheet_name
+A001,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A001,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A001,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A002,,Membership Fee,10.0,2023,Fee Halya 1
+A002,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A002,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A002,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A002,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A002,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A002,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A002,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A002,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A002,,Excess Payment Brought Forward,110.0,2025,Fee Halya 1
+A003,,Membership Fee,10.0,2023,Fee Halya 1
+A003,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A003,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A003,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A003,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A003,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A003,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A003,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A003,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A004,,Membership Fee,10.0,2023,Fee Halya 1
+A004,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A004,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A004,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A004,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A004,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A004,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A005,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A005,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A005,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A005,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A005,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A006,,Membership Fee,10.0,2023,Fee Halya 1
+A006,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A006,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A006,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A006,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A006,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A006,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A006,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A007,,Membership Fee,10.0,2023,Fee Halya 1
+A007,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A007,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A007,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A007,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A007,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A007,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A007,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A008,,Membership Fee,10.0,2023,Fee Halya 1
+A008,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A008,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A008,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A008,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A008,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A008,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A008,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A008,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A009,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A009,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A010,,Membership Fee,10.0,2023,Fee Halya 1
+A010,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A010,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A010,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A010,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A010,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A010,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A011,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A011,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A011,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A011,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A011,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A011,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A011,,Excess Payment Brought Forward,115.0,2025,Fee Halya 1
+A012,,Membership Fee,10.0,2023,Fee Halya 1
+A012,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A012,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A012,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A012,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A012,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A012,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A012,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A012,,Excess Payment Brought Forward,5.0,2025,Fee Halya 1
+A013,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A013,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A013,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A014,,Membership Fee,10.0,2023,Fee Halya 1
+A014,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A014,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A014,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A014,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A014,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A014,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A014,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A014,,Excess Payment Brought Forward,5.0,2025,Fee Halya 1
+A015,,Membership Fee,10.0,2023,Fee Halya 1
+A015,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A015,,Annual Fee 2024,100.0,2024,Fee Halya 1
+A015,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A015,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A015,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A015,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A015,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A015,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A016,,Membership Fee,10.0,2023,Fee Halya 1
+A016,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A016,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A016,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A016,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A016,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A016,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A016,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A017,,Membership Fee,10.0,2023,Fee Halya 1
+A017,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A017,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A017,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A017,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A017,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A017,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A017,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A017,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+A018,,Membership Fee,10.0,2023,Fee Halya 1
+A018,,Annual Fee 2023,7747.540000000001,2023,Fee Halya 1
+A018,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A018,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A018,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A018,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A018,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A018,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A022,,Membership Fee,10.0,2023,Fee Halya 1
+A022,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A022,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A022,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A022,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A022,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A023,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A023,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A023,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A023,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A024,,Membership Fee,10.0,2023,Fee Halya 1
+A024,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A024,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A024,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A024,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A024,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A024,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A024,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A024,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A025,,Membership Fee,10.0,2023,Fee Halya 1
+A025,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A025,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A025,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A025,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A025,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A025,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A025,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A026,,Membership Fee,10.0,2023,Fee Halya 1
+A026,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A026,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A026,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A026,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A026,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A027,,Membership Fee,10.0,2023,Fee Halya 1
+A027,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A027,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A027,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A027,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A027,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A027,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A027,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A027,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A028,,Membership Fee,10.0,2023,Fee Halya 1
+A028,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A028,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A028,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A028,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A028,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A028,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A028,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A029,,Membership Fee,10.0,2023,Fee Halya 1
+A029,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A029,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A029,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A029,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A029,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A029,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A029,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A029,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A029,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+A030,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A031,,Membership Fee,10.0,2023,Fee Halya 1
+A031,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A031,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A031,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A031,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A031,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A031,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A031,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A031,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+A032,,Membership Fee,10.0,2023,Fee Halya 1
+A032,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A032,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A032,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A032,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A032,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A032,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A032,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+A033,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A033,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A033,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A033,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A033,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A033,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A034,,Membership Fee,10.0,2023,Fee Halya 1
+A034,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A034,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A034,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A034,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A034,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A034,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A035,,Membership Fee,10.0,2023,Fee Halya 1
+A035,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A035,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A035,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A035,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A035,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A035,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A035,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A035,,Excess Payment Brought Forward,30.0,2025,Fee Halya 1
+A036,,Membership Fee,10.0,2023,Fee Halya 1
+A036,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A036,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A036,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A036,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A036,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A036,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A036,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+A038,,Membership Fee,10.0,2023,Fee Halya 1
+A038,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A038,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A038,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A038,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A038,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A038,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A038,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A040,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A040,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A040,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A040,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A040,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A040,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A040,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A041,,Membership Fee,10.0,2023,Fee Halya 1
+A041,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A041,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A041,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A041,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A041,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A041,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A041,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A042,,Membership Fee,10.0,2023,Fee Halya 1
+A042,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A042,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A042,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A042,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A042,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A042,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A043,,Membership Fee,10.0,2023,Fee Halya 1
+A043,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A043,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A043,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A043,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A043,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A043,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A043,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A044,,Membership Fee,10.0,2023,Fee Halya 1
+A044,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A044,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A044,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A044,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A044,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A044,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A044,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A045,,Membership Fee,10.0,2023,Fee Halya 1
+A045,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A045,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A045,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A045,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A045,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A045,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A046,,Membership Fee,10.0,2023,Fee Halya 1
+A046,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A046,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A046,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A046,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A046,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A046,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A046,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A046,,Excess Payment Brought Forward,110.0,2025,Fee Halya 1
+A047,,Membership Fee,10.0,2023,Fee Halya 1
+A047,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A047,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A047,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A047,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A047,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A047,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A047,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A048,,Membership Fee,10.0,2023,Fee Halya 1
+A048,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A048,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A048,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A048,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A048,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A048,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A048,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A049,,Membership Fee,10.0,2023,Fee Halya 1
+A049,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A049,,Annual Fee 2024,50.0,2024,Fee Halya 1
+A049,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A049,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A049,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A049,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A049,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A049,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A049,,Excess Payment Brought Forward,30.0,2025,Fee Halya 1
+A050,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A050,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A051,,Membership Fee,10.0,2023,Fee Halya 1
+A051,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A051,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A051,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A051,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A051,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A051,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A051,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A051,,Excess Payment Brought Forward,85.0,2025,Fee Halya 1
+A052,,Membership Fee,10.0,2023,Fee Halya 1
+A052,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A052,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A052,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A052,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A052,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A052,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A052,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A053,,Membership Fee,10.0,2024,Fee Halya 1
+A053,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A053,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A053,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A053,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A053,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A053,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A053,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A054,,Membership Fee,10.0,2023,Fee Halya 1
+A054,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A054,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A054,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A054,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A054,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A054,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A055,,Membership Fee,10.0,2023,Fee Halya 1
+A055,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A055,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A055,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A055,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A055,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A055,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A056,,Membership Fee,10.0,2023,Fee Halya 1
+A056,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A056,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A056,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A056,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A056,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A056,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A056,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A057,,Membership Fee,10.0,2023,Fee Halya 1
+A057,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A057,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A057,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A057,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A057,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A057,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A057,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+A058,,Membership Fee,10.0,2024,Fee Halya 1
+A058,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A058,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A058,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A058,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A058,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A058,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A060,,Membership Fee,10.0,2023,Fee Halya 1
+A060,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A060,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A060,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A060,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A060,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A060,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+A060,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+A062,,Membership Fee,10.0,2023,Fee Halya 1
+A062,,Annual Fee 2023,50.0,2023,Fee Halya 1
+A062,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+A062,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+A062,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+A062,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+A062,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B001,,Membership Fee,10.0,2023,Fee Halya 1
+B001,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B001,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B001,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B001,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B001,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B001,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B002,,Membership Fee,10.0,2023,Fee Halya 1
+B002,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B002,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B002,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B002,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B002,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B003,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B004,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B004,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B004,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B004,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B004,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B004,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B006,,Membership Fee,10.0,2023,Fee Halya 1
+B006,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B006,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B006,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B006,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B006,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B006,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B006,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B006,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B007,,Membership Fee,10.0,2023,Fee Halya 1
+B007,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B007,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B007,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B007,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B007,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B007,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B007,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B008,,Membership Fee,10.0,2023,Fee Halya 1
+B008,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B008,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B008,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B008,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B008,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B008,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B008,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B010,,Membership Fee,10.0,2023,Fee Halya 1
+B010,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B010,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B010,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B010,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B010,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B010,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B010,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B011,,Membership Fee,10.0,2023,Fee Halya 1
+B011,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B011,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B011,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B011,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B011,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B011,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B011,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B011,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B012,,Membership Fee,10.0,2023,Fee Halya 1
+B012,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B012,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B012,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B012,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B012,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B012,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B012,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B012,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B013,,Membership Fee,10.0,2023,Fee Halya 1
+B013,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B013,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B013,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B013,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B013,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B013,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B013,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B013,,Excess Payment Brought Forward,30.0,2025,Fee Halya 1
+B014,,Membership Fee,10.0,2023,Fee Halya 1
+B014,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B014,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B014,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B014,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B014,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B014,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B014,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B014,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B015,,Membership Fee,10.0,2023,Fee Halya 1
+B015,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B015,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B015,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B015,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B015,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B015,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B016,,Membership Fee,10.0,2023,Fee Halya 1
+B016,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B016,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B016,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B016,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B016,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B016,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B016,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B017,,Membership Fee,10.0,2023,Fee Halya 1
+B017,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B017,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B017,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B017,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B017,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B017,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B017,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B017,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+B018,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B018,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B018,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B018,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B018,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B019,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B019,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B019,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B019,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B020,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B020,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B020,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B020,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B020,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B020,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B021,,Membership Fee,10.0,2023,Fee Halya 1
+B021,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B021,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B021,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B021,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B021,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B021,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B022,,Membership Fee,10.0,2023,Fee Halya 1
+B022,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B022,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B022,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B022,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B022,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B022,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B022,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B023,,Membership Fee,10.0,2023,Fee Halya 1
+B023,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B023,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B023,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B023,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B023,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B024,,Membership Fee,10.0,2023,Fee Halya 1
+B024,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B024,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B024,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B024,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B024,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B024,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B024,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+B025,,Membership Fee,10.0,2023,Fee Halya 1
+B025,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B025,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B025,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B025,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B025,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B025,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B025,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B026,,Membership Fee,10.0,2024,Fee Halya 1
+B026,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B026,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B026,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B026,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B026,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B026,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B026,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B026,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B027,,Membership Fee,10.0,2023,Fee Halya 1
+B027,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B027,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B027,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B027,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B027,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B027,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B027,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B027,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+B028,,Membership Fee,10.0,2023,Fee Halya 1
+B028,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B028,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B028,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B028,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B028,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B028,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B029,,Membership Fee,10.0,2023,Fee Halya 1
+B029,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B029,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B029,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B029,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B029,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B029,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B030,,Membership Fee,10.0,2024,Fee Halya 1
+B030,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B030,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B031,,Membership Fee,10.0,2023,Fee Halya 1
+B031,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B031,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B031,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B031,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B031,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B031,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B031,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B032,,Membership Fee,10.0,2023,Fee Halya 1
+B032,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B032,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B032,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B032,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B032,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B032,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B032,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B032,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B033,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B033,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B033,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B033,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B033,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B033,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B034,,Membership Fee,10.0,2023,Fee Halya 1
+B034,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B034,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B034,,Annual Fee 2025,100.0,2025,Fee Halya 1
+B034,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B034,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B034,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B034,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B034,,Guard Fee - July 2025,20.0,2025,Fee Halya 1
+B034,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B035,,Membership Fee,10.0,2023,Fee Halya 1
+B035,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B035,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B035,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B035,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B035,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B035,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B035,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B036,,Membership Fee,10.0,2023,Fee Halya 1
+B036,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B036,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B036,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B036,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B036,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B036,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B036,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B036,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+B037,,Membership Fee,10.0,2023,Fee Halya 1
+B037,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B037,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B037,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B037,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B037,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B037,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B038,,Membership Fee,10.0,2023,Fee Halya 1
+B038,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B038,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B038,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B038,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B038,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B038,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B038,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B038,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B039,,Membership Fee,10.0,2023,Fee Halya 1
+B039,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B039,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B039,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B039,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B039,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B039,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B039,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B040,,Membership Fee,10.0,2023,Fee Halya 1
+B040,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B040,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B040,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B040,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B040,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B040,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B041,,Membership Fee,10.0,2023,Fee Halya 1
+B041,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B041,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B041,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B041,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B041,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B042,,Membership Fee,10.0,2023,Fee Halya 1
+B042,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B042,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B042,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B042,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B042,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B042,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B042,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B043,,Membership Fee,10.0,2023,Fee Halya 1
+B043,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B043,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B043,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B043,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B043,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B043,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B043,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B043,,Excess Payment Brought Forward,220.0,2025,Fee Halya 1
+B044,,Membership Fee,10.0,2023,Fee Halya 1
+B044,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B044,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B044,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B044,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B044,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B044,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B044,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B044,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B045,,Membership Fee,10.0,2023,Fee Halya 1
+B045,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B045,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B045,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B045,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B045,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B045,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B045,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B046,,Membership Fee,10.0,2023,Fee Halya 1
+B046,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B046,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B046,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B046,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B046,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B046,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B046,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B047,,Membership Fee,10.0,2023,Fee Halya 1
+B047,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B047,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B047,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B047,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B047,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B047,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B047,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B047,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B048,,Membership Fee,10.0,2023,Fee Halya 1
+B048,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B048,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B048,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B048,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B048,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B048,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B048,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B048,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B049,,Membership Fee,10.0,2023,Fee Halya 1
+B049,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B049,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B049,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B049,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B049,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B049,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B050,,Membership Fee,10.0,2023,Fee Halya 1
+B050,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B050,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B050,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B050,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B050,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B050,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B050,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B050,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B051,,Membership Fee,10.0,2023,Fee Halya 1
+B051,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B051,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B051,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B051,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B051,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B051,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B051,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B051,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B052,,Membership Fee,10.0,2023,Fee Halya 1
+B052,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B052,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B052,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B052,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B052,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B052,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B053,,Membership Fee,10.0,2023,Fee Halya 1
+B053,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B053,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B053,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B053,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B053,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B053,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B054,,Membership Fee,10.0,2023,Fee Halya 1
+B054,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B054,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B054,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B054,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B054,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B054,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B054,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B054,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+B055,,Membership Fee,10.0,2023,Fee Halya 1
+B055,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B055,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B055,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B055,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B055,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B055,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B055,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B055,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B056,,Membership Fee,10.0,2023,Fee Halya 1
+B056,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B056,,Annual Fee 2024,50.0,2024,Fee Halya 1
+B056,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B056,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B056,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B056,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B056,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B056,,Guard Fee - August 2025,30.0,2025,Fee Halya 1
+B057,,Membership Fee,10.0,2023,Fee Halya 1
+B057,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B057,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+B057,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+B057,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+B057,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+B057,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+B057,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+B058,,Membership Fee,10.0,2023,Fee Halya 1
+B058,,Annual Fee 2023,50.0,2023,Fee Halya 1
+B058,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C002,,Membership Fee,10.0,2023,Fee Halya 1
+C002,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C002,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C002,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C002,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C002,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C002,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C004,,Membership Fee,10.0,2023,Fee Halya 1
+C004,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C004,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C004,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C004,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C004,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C004,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C004,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C006,,Membership Fee,10.0,2023,Fee Halya 1
+C006,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C006,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C006,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C006,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C006,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C006,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C008,,Membership Fee,10.0,2023,Fee Halya 1
+C008,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C008,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C008,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C008,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C008,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C008,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C008,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C008,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C010,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C010,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C010,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C010,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C012,,Membership Fee,10.0,2023,Fee Halya 1
+C012,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C012,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C012,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C012,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C012,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C012,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C012,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C012,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+C014,,Membership Fee,10.0,2023,Fee Halya 1
+C014,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C014,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C014,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C014,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C014,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C014,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C016,,Membership Fee,10.0,2023,Fee Halya 1
+C016,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C016,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C016,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C016,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C016,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C016,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C016,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C018,,Membership Fee,10.0,2023,Fee Halya 1
+C018,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C018,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C018,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C018,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C018,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C018,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C018,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C018,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C020,,Membership Fee,10.0,2023,Fee Halya 1
+C020,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C020,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C020,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C020,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C020,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C020,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C020,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C020,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C022,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C022,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C022,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C022,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C024,,Membership Fee,10.0,2023,Fee Halya 1
+C024,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C024,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C024,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C024,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C024,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C024,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C024,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C026,,Membership Fee,10.0,2023,Fee Halya 1
+C026,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C026,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C026,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C026,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C026,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C026,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C028,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C028,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C028,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C028,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C030,,Membership Fee,10.0,2023,Fee Halya 1
+C030,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C030,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C030,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C030,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C030,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C030,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C030,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C032,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C032,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C032,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C032,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C032,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C034,,Membership Fee,10.0,2023,Fee Halya 1
+C034,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C034,,Annual Fee 2024,10.0,2024,Fee Halya 1
+C034,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C034,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C034,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C034,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C038,,Membership Fee,10.0,2023,Fee Halya 1
+C038,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C038,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C038,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C038,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C038,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C038,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C038,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C040,,Membership Fee,10.0,2023,Fee Halya 1
+C040,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C040,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C040,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C040,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C040,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C040,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C040,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C042,,Membership Fee,10.0,2023,Fee Halya 1
+C042,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C042,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C042,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C042,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C042,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C042,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C042,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C042,,Excess Payment Brought Forward,55.0,2025,Fee Halya 1
+C044,,Membership Fee,10.0,2023,Fee Halya 1
+C044,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C044,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C044,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C044,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C044,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C044,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C044,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C044,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C048,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C048,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C048,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C048,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C050,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C050,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C050,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C050,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C050,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C052,,Membership Fee,10.0,2023,Fee Halya 1
+C052,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C052,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C052,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C052,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C052,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C052,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C052,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C052,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C054,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C054,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C054,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C054,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C054,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C056,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C056,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C058,,Membership Fee,10.0,2024,Fee Halya 1
+C058,,Annual Fee 2023,50.0,2023,Fee Halya 1
+C058,,Annual Fee 2024,50.0,2024,Fee Halya 1
+C058,,Guard Fee - Raya,30.0,2025,Fee Halya 1
+C058,,Guard Fee - April 2025,30.0,2025,Fee Halya 1
+C058,,Guard Fee - May 2025,30.0,2025,Fee Halya 1
+C058,,Guard Fee - June 2025,30.0,2025,Fee Halya 1
+C058,,Guard Fee - July 2025,30.0,2025,Fee Halya 1
+C058,,Guard Fee - August 2025,55.0,2025,Fee Halya 1
+C058,,Excess Payment Brought Forward,20.0,2025,Fee Halya 1
+A001,,Guard Fee - April 2025,30.0,2025,Sticker
+A002,,Membership Fee,10.0,2023,Sticker
+A002,,Annual Fee 2023,50.0,2023,Sticker
+A002,,Annual Fee 2024,50.0,2024,Sticker
+A002,,Guard Fee - Raya,30.0,2025,Sticker
+A002,,Guard Fee - April 2025,30.0,2025,Sticker
+A003,,Membership Fee,10.0,2023,Sticker
+A003,,Annual Fee 2023,50.0,2023,Sticker
+A003,,Annual Fee 2024,50.0,2024,Sticker
+A003,,Guard Fee - Raya,30.0,2025,Sticker
+A003,,Guard Fee - April 2025,30.0,2025,Sticker
+A004,,Membership Fee,10.0,2023,Sticker
+A004,,Annual Fee 2023,50.0,2023,Sticker
+A004,,Annual Fee 2024,50.0,2024,Sticker
+A004,,Guard Fee - Raya,30.0,2025,Sticker
+A004,,Guard Fee - April 2025,30.0,2025,Sticker
+A005,,Guard Fee - April 2025,30.0,2025,Sticker
+A006,,Membership Fee,10.0,2023,Sticker
+A006,,Annual Fee 2023,50.0,2023,Sticker
+A006,,Annual Fee 2024,50.0,2024,Sticker
+A006,,Guard Fee - Raya,30.0,2025,Sticker
+A006,,Guard Fee - April 2025,30.0,2025,Sticker
+A007,,Membership Fee,10.0,2023,Sticker
+A007,,Annual Fee 2023,50.0,2023,Sticker
+A007,,Guard Fee - Raya,30.0,2025,Sticker
+A007,,Guard Fee - April 2025,30.0,2025,Sticker
+A008,,Membership Fee,10.0,2023,Sticker
+A008,,Annual Fee 2023,50.0,2023,Sticker
+A008,,Annual Fee 2024,50.0,2024,Sticker
+A008,,Guard Fee - Raya,30.0,2025,Sticker
+A008,,Guard Fee - April 2025,30.0,2025,Sticker
+A010,,Membership Fee,10.0,2023,Sticker
+A010,,Annual Fee 2023,50.0,2023,Sticker
+A010,,Guard Fee - Raya,30.0,2025,Sticker
+A010,,Guard Fee - April 2025,30.0,2025,Sticker
+A011,,Guard Fee - Raya,30.0,2025,Sticker
+A011,,Guard Fee - April 2025,30.0,2025,Sticker
+A012,,Membership Fee,10.0,2023,Sticker
+A012,,Annual Fee 2023,50.0,2023,Sticker
+A012,,Guard Fee - Raya,30.0,2025,Sticker
+A012,,Guard Fee - April 2025,30.0,2025,Sticker
+A014,,Membership Fee,10.0,2023,Sticker
+A014,,Annual Fee 2023,50.0,2023,Sticker
+A014,,Guard Fee - Raya,30.0,2025,Sticker
+A014,,Guard Fee - April 2025,30.0,2025,Sticker
+A015,,Membership Fee,10.0,2023,Sticker
+A015,,Annual Fee 2023,50.0,2023,Sticker
+A015,,Guard Fee - Raya,30.0,2025,Sticker
+A015,,Guard Fee - April 2025,30.0,2025,Sticker
+A016,,Membership Fee,10.0,2023,Sticker
+A016,,Annual Fee 2023,50.0,2023,Sticker
+A016,,Guard Fee - Raya,30.0,2025,Sticker
+A016,,Guard Fee - April 2025,30.0,2025,Sticker
+A017,,Membership Fee,10.0,2023,Sticker
+A017,,Annual Fee 2023,50.0,2023,Sticker
+A017,,Guard Fee - Raya,30.0,2025,Sticker
+A017,,Guard Fee - April 2025,30.0,2025,Sticker
+A018,,Membership Fee,10.0,2023,Sticker
+A018,,Annual Fee 2023,50.0,2023,Sticker
+A018,,Guard Fee - Raya,30.0,2025,Sticker
+A022,,Membership Fee,10.0,2023,Sticker
+A022,,Annual Fee 2023,50.0,2023,Sticker
+A022,,Guard Fee - Raya,30.0,2025,Sticker
+A022,,Guard Fee - April 2025,30.0,2025,Sticker
+A023,,Guard Fee - Raya,30.0,2025,Sticker
+A023,,Guard Fee - April 2025,30.0,2025,Sticker
+A024,,Membership Fee,10.0,2023,Sticker
+A024,,Annual Fee 2023,50.0,2023,Sticker
+A024,,Annual Fee 2024,50.0,2024,Sticker
+A024,,Guard Fee - Raya,30.0,2025,Sticker
+A024,,Guard Fee - April 2025,30.0,2025,Sticker
+A025,,Membership Fee,10.0,2023,Sticker
+A025,,Annual Fee 2023,50.0,2023,Sticker
+A025,,Guard Fee - Raya,30.0,2025,Sticker
+A025,,Guard Fee - April 2025,30.0,2025,Sticker
+A026,,Membership Fee,10.0,2023,Sticker
+A026,,Annual Fee 2023,50.0,2023,Sticker
+A026,,Guard Fee - Raya,30.0,2025,Sticker
+A026,,Guard Fee - April 2025,30.0,2025,Sticker
+A027,,Membership Fee,10.0,2023,Sticker
+A027,,Annual Fee 2023,50.0,2023,Sticker
+A027,,Annual Fee 2024,50.0,2024,Sticker
+A027,,Guard Fee - Raya,30.0,2025,Sticker
+A027,,Guard Fee - April 2025,30.0,2025,Sticker
+A028,,Membership Fee,10.0,2023,Sticker
+A028,,Annual Fee 2023,50.0,2023,Sticker
+A028,,Guard Fee - Raya,30.0,2025,Sticker
+A028,,Guard Fee - April 2025,30.0,2025,Sticker
+A029,,Membership Fee,10.0,2023,Sticker
+A029,,Annual Fee 2023,50.0,2023,Sticker
+A029,,Annual Fee 2024,50.0,2024,Sticker
+A029,,Guard Fee - Raya,30.0,2025,Sticker
+A029,,Guard Fee - April 2025,30.0,2025,Sticker
+A031,,Membership Fee,10.0,2023,Sticker
+A031,,Annual Fee 2023,50.0,2023,Sticker
+A031,,Guard Fee - Raya,30.0,2025,Sticker
+A031,,Guard Fee - April 2025,30.0,2025,Sticker
+A032,,Membership Fee,10.0,2023,Sticker
+A032,,Annual Fee 2023,50.0,2023,Sticker
+A032,,Guard Fee - Raya,30.0,2025,Sticker
+A032,,Guard Fee - April 2025,30.0,2025,Sticker
+A033,,Annual Fee 2024,50.0,2024,Sticker
+A033,,Guard Fee - Raya,30.0,2025,Sticker
+A034,,Membership Fee,10.0,2023,Sticker
+A034,,Annual Fee 2023,50.0,2023,Sticker
+A034,,Guard Fee - Raya,30.0,2025,Sticker
+A034,,Guard Fee - April 2025,30.0,2025,Sticker
+A035,,Membership Fee,10.0,2023,Sticker
+A035,,Annual Fee 2023,50.0,2023,Sticker
+A035,,Guard Fee - Raya,30.0,2025,Sticker
+A035,,Guard Fee - April 2025,30.0,2025,Sticker
+A036,,Membership Fee,10.0,2023,Sticker
+A036,,Annual Fee 2023,50.0,2023,Sticker
+A036,,Guard Fee - Raya,30.0,2025,Sticker
+A036,,Guard Fee - April 2025,30.0,2025,Sticker
+A038,,Membership Fee,10.0,2023,Sticker
+A038,,Annual Fee 2023,50.0,2023,Sticker
+A038,,Guard Fee - Raya,30.0,2025,Sticker
+A038,,Guard Fee - April 2025,30.0,2025,Sticker
+A040,,Annual Fee 2024,50.0,2024,Sticker
+A040,,Guard Fee - Raya,30.0,2025,Sticker
+A040,,Guard Fee - April 2025,30.0,2025,Sticker
+A041,,Membership Fee,10.0,2023,Sticker
+A041,,Annual Fee 2023,50.0,2023,Sticker
+A041,,Guard Fee - Raya,30.0,2025,Sticker
+A041,,Guard Fee - April 2025,30.0,2025,Sticker
+A042,,Membership Fee,10.0,2023,Sticker
+A042,,Annual Fee 2023,50.0,2023,Sticker
+A042,,Guard Fee - Raya,30.0,2025,Sticker
+A042,,Guard Fee - April 2025,30.0,2025,Sticker
+A043,,Membership Fee,10.0,2023,Sticker
+A043,,Annual Fee 2023,50.0,2023,Sticker
+A043,,Guard Fee - Raya,30.0,2025,Sticker
+A044,,Membership Fee,10.0,2023,Sticker
+A044,,Annual Fee 2023,50.0,2023,Sticker
+A044,,Guard Fee - Raya,30.0,2025,Sticker
+A044,,Guard Fee - April 2025,30.0,2025,Sticker
+A045,,Membership Fee,10.0,2023,Sticker
+A045,,Annual Fee 2023,50.0,2023,Sticker
+A045,,Guard Fee - Raya,30.0,2025,Sticker
+A046,,Membership Fee,10.0,2023,Sticker
+A046,,Annual Fee 2023,50.0,2023,Sticker
+A046,,Guard Fee - Raya,30.0,2025,Sticker
+A046,,Guard Fee - April 2025,30.0,2025,Sticker
+A047,,Membership Fee,10.0,2023,Sticker
+A047,,Annual Fee 2023,50.0,2023,Sticker
+A047,,Guard Fee - Raya,30.0,2025,Sticker
+A047,,Guard Fee - April 2025,30.0,2025,Sticker
+A048,,Membership Fee,10.0,2023,Sticker
+A048,,Annual Fee 2023,50.0,2023,Sticker
+A048,,Guard Fee - Raya,30.0,2025,Sticker
+A048,,Guard Fee - April 2025,30.0,2025,Sticker
+A049,,Membership Fee,10.0,2023,Sticker
+A049,,Annual Fee 2023,50.0,2023,Sticker
+A049,,Annual Fee 2024,50.0,2024,Sticker
+A049,,Guard Fee - Raya,30.0,2025,Sticker
+A049,,Guard Fee - April 2025,30.0,2025,Sticker
+A050,,Guard Fee - Raya,30.0,2025,Sticker
+A051,,Membership Fee,10.0,2023,Sticker
+A051,,Annual Fee 2023,50.0,2023,Sticker
+A051,,Guard Fee - Raya,30.0,2025,Sticker
+A051,,Guard Fee - April 2025,30.0,2025,Sticker
+A052,,Membership Fee,10.0,2023,Sticker
+A052,,Annual Fee 2023,50.0,2023,Sticker
+A052,,Guard Fee - Raya,30.0,2025,Sticker
+A052,,Guard Fee - April 2025,30.0,2025,Sticker
+A053,,Membership Fee,10.0,2024,Sticker
+A053,,Annual Fee 2023,50.0,2023,Sticker
+A053,,Guard Fee - Raya,30.0,2025,Sticker
+A053,,Guard Fee - April 2025,30.0,2025,Sticker
+A054,,Membership Fee,10.0,2023,Sticker
+A054,,Annual Fee 2023,50.0,2023,Sticker
+A054,,Guard Fee - Raya,30.0,2025,Sticker
+A054,,Guard Fee - April 2025,30.0,2025,Sticker
+A055,,Membership Fee,10.0,2023,Sticker
+A055,,Annual Fee 2023,50.0,2023,Sticker
+A055,,Guard Fee - Raya,30.0,2025,Sticker
+A055,,Guard Fee - April 2025,30.0,2025,Sticker
+A056,,Membership Fee,10.0,2023,Sticker
+A056,,Annual Fee 2023,50.0,2023,Sticker
+A056,,Guard Fee - Raya,30.0,2025,Sticker
+A056,,Guard Fee - April 2025,30.0,2025,Sticker
+A057,,Membership Fee,10.0,2023,Sticker
+A057,,Annual Fee 2023,50.0,2023,Sticker
+A057,,Guard Fee - Raya,30.0,2025,Sticker
+A057,,Guard Fee - April 2025,30.0,2025,Sticker
+A058,,Membership Fee,10.0,2024,Sticker
+A058,,Annual Fee 2023,50.0,2023,Sticker
+A058,,Guard Fee - Raya,30.0,2025,Sticker
+A058,,Guard Fee - April 2025,30.0,2025,Sticker
+A060,,Membership Fee,10.0,2023,Sticker
+A060,,Annual Fee 2023,50.0,2023,Sticker
+A060,,Guard Fee - Raya,30.0,2025,Sticker
+A060,,Guard Fee - April 2025,30.0,2025,Sticker
+A062,,Membership Fee,10.0,2023,Sticker
+A062,,Annual Fee 2023,50.0,2023,Sticker
+A062,,Guard Fee - Raya,30.0,2025,Sticker
+A062,,Guard Fee - April 2025,30.0,2025,Sticker
+B001,,Membership Fee,10.0,2023,Sticker
+B001,,Annual Fee 2023,50.0,2023,Sticker
+B001,,Guard Fee - Raya,30.0,2025,Sticker
+B002,,Membership Fee,10.0,2023,Sticker
+B002,,Annual Fee 2023,50.0,2023,Sticker
+B002,,Guard Fee - Raya,30.0,2025,Sticker
+B002,,Guard Fee - April 2025,30.0,2025,Sticker
+B003,,Annual Fee 2024,50.0,2024,Sticker
+B004,,Guard Fee - Raya,30.0,2025,Sticker
+B005,,Membership Fee,10.0,2023,Sticker
+B005,,Annual Fee 2023,50.0,2023,Sticker
+B005,,Guard Fee - Raya,30.0,2025,Sticker
+B005,,Guard Fee - April 2025,30.0,2025,Sticker
+B006,,Membership Fee,10.0,2023,Sticker
+B006,,Annual Fee 2023,50.0,2023,Sticker
+B006,,Annual Fee 2024,50.0,2024,Sticker
+B006,,Guard Fee - Raya,30.0,2025,Sticker
+B006,,Guard Fee - April 2025,30.0,2025,Sticker
+B007,,Membership Fee,10.0,2023,Sticker
+B007,,Annual Fee 2023,50.0,2023,Sticker
+B007,,Guard Fee - Raya,30.0,2025,Sticker
+B007,,Guard Fee - April 2025,30.0,2025,Sticker
+B008,,Membership Fee,10.0,2023,Sticker
+B008,,Annual Fee 2023,50.0,2023,Sticker
+B008,,Guard Fee - Raya,30.0,2025,Sticker
+B008,,Guard Fee - April 2025,30.0,2025,Sticker
+B010,,Membership Fee,10.0,2023,Sticker
+B010,,Annual Fee 2023,50.0,2023,Sticker
+B010,,Guard Fee - Raya,30.0,2025,Sticker
+B010,,Guard Fee - April 2025,30.0,2025,Sticker
+B011,,Membership Fee,10.0,2023,Sticker
+B011,,Annual Fee 2023,50.0,2023,Sticker
+B011,,Annual Fee 2024,50.0,2024,Sticker
+B011,,Guard Fee - Raya,30.0,2025,Sticker
+B011,,Guard Fee - April 2025,30.0,2025,Sticker
+B012,,Membership Fee,10.0,2023,Sticker
+B012,,Annual Fee 2023,50.0,2023,Sticker
+B012,,Annual Fee 2024,50.0,2024,Sticker
+B012,,Guard Fee - Raya,30.0,2025,Sticker
+B012,,Guard Fee - April 2025,30.0,2025,Sticker
+B013,,Membership Fee,10.0,2023,Sticker
+B013,,Annual Fee 2023,50.0,2023,Sticker
+B013,,Guard Fee - Raya,30.0,2025,Sticker
+B013,,Guard Fee - April 2025,30.0,2025,Sticker
+B014,,Membership Fee,10.0,2023,Sticker
+B014,,Annual Fee 2023,50.0,2023,Sticker
+B014,,Annual Fee 2024,50.0,2024,Sticker
+B014,,Guard Fee - Raya,30.0,2025,Sticker
+B014,,Guard Fee - April 2025,30.0,2025,Sticker
+B015,,Membership Fee,10.0,2023,Sticker
+B015,,Annual Fee 2023,50.0,2023,Sticker
+B015,,Guard Fee - Raya,30.0,2025,Sticker
+B015,,Guard Fee - April 2025,30.0,2025,Sticker
+B016,,Membership Fee,10.0,2023,Sticker
+B016,,Annual Fee 2023,50.0,2023,Sticker
+B016,,Guard Fee - Raya,30.0,2025,Sticker
+B016,,Guard Fee - April 2025,30.0,2025,Sticker
+B017,,Membership Fee,10.0,2023,Sticker
+B017,,Annual Fee 2023,50.0,2023,Sticker
+B017,,Annual Fee 2024,50.0,2024,Sticker
+B017,,Guard Fee - Raya,30.0,2025,Sticker
+B017,,Guard Fee - April 2025,30.0,2025,Sticker
+B018,,Guard Fee - April 2025,30.0,2025,Sticker
+B019,,Guard Fee - Raya,30.0,2025,Sticker
+B020,,Guard Fee - Raya,30.0,2025,Sticker
+B020,,Guard Fee - April 2025,30.0,2025,Sticker
+B021,,Membership Fee,10.0,2023,Sticker
+B021,,Annual Fee 2023,50.0,2023,Sticker
+B021,,Guard Fee - Raya,30.0,2025,Sticker
+B021,,Guard Fee - April 2025,30.0,2025,Sticker
+B022,,Membership Fee,10.0,2023,Sticker
+B022,,Annual Fee 2023,50.0,2023,Sticker
+B022,,Guard Fee - Raya,30.0,2025,Sticker
+B022,,Guard Fee - April 2025,30.0,2025,Sticker
+B023,,Membership Fee,10.0,2023,Sticker
+B023,,Annual Fee 2023,50.0,2023,Sticker
+B023,,Guard Fee - Raya,30.0,2025,Sticker
+B023,,Guard Fee - April 2025,30.0,2025,Sticker
+B024,,Membership Fee,10.0,2023,Sticker
+B024,,Annual Fee 2023,50.0,2023,Sticker
+B024,,Guard Fee - Raya,30.0,2025,Sticker
+B024,,Guard Fee - April 2025,30.0,2025,Sticker
+B025,,Membership Fee,10.0,2023,Sticker
+B025,,Annual Fee 2023,50.0,2023,Sticker
+B025,,Guard Fee - Raya,30.0,2025,Sticker
+B025,,Guard Fee - April 2025,30.0,2025,Sticker
+B026,,Membership Fee,10.0,2024,Sticker
+B026,,Annual Fee 2023,50.0,2023,Sticker
+B026,,Annual Fee 2024,50.0,2024,Sticker
+B026,,Guard Fee - Raya,30.0,2025,Sticker
+B026,,Guard Fee - April 2025,30.0,2025,Sticker
+B027,,Membership Fee,10.0,2023,Sticker
+B027,,Annual Fee 2023,50.0,2023,Sticker
+B027,,Guard Fee - Raya,30.0,2025,Sticker
+B027,,Guard Fee - April 2025,30.0,2025,Sticker
+B028,,Membership Fee,10.0,2023,Sticker
+B028,,Annual Fee 2023,50.0,2023,Sticker
+B028,,Annual Fee 2024,50.0,2024,Sticker
+B028,,Guard Fee - Raya,30.0,2025,Sticker
+B028,,Guard Fee - April 2025,30.0,2025,Sticker
+B029,,Membership Fee,10.0,2023,Sticker
+B029,,Annual Fee 2023,50.0,2023,Sticker
+B029,,Guard Fee - Raya,30.0,2025,Sticker
+B029,,Guard Fee - April 2025,30.0,2025,Sticker
+B030,,Membership Fee,10.0,2024,Sticker
+B030,,Annual Fee 2023,50.0,2023,Sticker
+B030,,Guard Fee - Raya,30.0,2025,Sticker
+B031,,Membership Fee,10.0,2023,Sticker
+B031,,Annual Fee 2023,50.0,2023,Sticker
+B031,,Guard Fee - Raya,30.0,2025,Sticker
+B031,,Guard Fee - April 2025,30.0,2025,Sticker
+B032,,Membership Fee,10.0,2023,Sticker
+B032,,Annual Fee 2023,50.0,2023,Sticker
+B032,,Annual Fee 2024,50.0,2024,Sticker
+B032,,Guard Fee - Raya,30.0,2025,Sticker
+B032,,Guard Fee - April 2025,30.0,2025,Sticker
+B033,,Guard Fee - Raya,30.0,2025,Sticker
+B033,,Guard Fee - April 2025,30.0,2025,Sticker
+B034,,Membership Fee,10.0,2023,Sticker
+B034,,Annual Fee 2023,50.0,2023,Sticker
+B034,,Annual Fee 2024,50.0,2024,Sticker
+B034,,Annual Fee 2025,100.0,2025,Sticker
+B034,,Guard Fee - Raya,30.0,2025,Sticker
+B034,,Guard Fee - April 2025,30.0,2025,Sticker
+B035,,Membership Fee,10.0,2023,Sticker
+B035,,Annual Fee 2023,50.0,2023,Sticker
+B035,,Guard Fee - Raya,30.0,2025,Sticker
+B035,,Guard Fee - April 2025,30.0,2025,Sticker
+B036,,Membership Fee,10.0,2023,Sticker
+B036,,Annual Fee 2023,50.0,2023,Sticker
+B036,,Guard Fee - Raya,30.0,2025,Sticker
+B036,,Guard Fee - April 2025,30.0,2025,Sticker
+B037,,Membership Fee,10.0,2023,Sticker
+B037,,Annual Fee 2023,50.0,2023,Sticker
+B037,,Guard Fee - Raya,30.0,2025,Sticker
+B037,,Guard Fee - April 2025,30.0,2025,Sticker
+B038,,Membership Fee,10.0,2023,Sticker
+B038,,Annual Fee 2023,50.0,2023,Sticker
+B038,,Annual Fee 2024,50.0,2024,Sticker
+B038,,Guard Fee - Raya,30.0,2025,Sticker
+B038,,Guard Fee - April 2025,30.0,2025,Sticker
+B039,,Membership Fee,10.0,2023,Sticker
+B039,,Annual Fee 2023,50.0,2023,Sticker
+B039,,Annual Fee 2024,50.0,2024,Sticker
+B039,,Guard Fee - Raya,30.0,2025,Sticker
+B039,,Guard Fee - April 2025,30.0,2025,Sticker
+B040,,Membership Fee,10.0,2023,Sticker
+B040,,Annual Fee 2023,50.0,2023,Sticker
+B040,,Guard Fee - Raya,30.0,2025,Sticker
+B040,,Guard Fee - April 2025,30.0,2025,Sticker
+B041,,Membership Fee,10.0,2023,Sticker
+B041,,Annual Fee 2023,50.0,2023,Sticker
+B041,,Guard Fee - Raya,30.0,2025,Sticker
+B041,,Guard Fee - April 2025,30.0,2025,Sticker
+B042,,Membership Fee,10.0,2023,Sticker
+B042,,Annual Fee 2023,50.0,2023,Sticker
+B042,,Guard Fee - Raya,30.0,2025,Sticker
+B042,,Guard Fee - April 2025,30.0,2025,Sticker
+B043,,Membership Fee,10.0,2023,Sticker
+B043,,Annual Fee 2023,50.0,2023,Sticker
+B043,,Guard Fee - Raya,30.0,2025,Sticker
+B044,,Membership Fee,10.0,2023,Sticker
+B044,,Annual Fee 2023,50.0,2023,Sticker
+B044,,Annual Fee 2024,50.0,2024,Sticker
+B044,,Guard Fee - Raya,30.0,2025,Sticker
+B044,,Guard Fee - April 2025,30.0,2025,Sticker
+B045,,Membership Fee,10.0,2023,Sticker
+B045,,Annual Fee 2023,50.0,2023,Sticker
+B045,,Annual Fee 2024,50.0,2024,Sticker
+B045,,Guard Fee - April 2025,30.0,2025,Sticker
+B046,,Membership Fee,10.0,2023,Sticker
+B046,,Annual Fee 2023,50.0,2023,Sticker
+B046,,Guard Fee - Raya,30.0,2025,Sticker
+B046,,Guard Fee - April 2025,30.0,2025,Sticker
+B047,,Membership Fee,10.0,2023,Sticker
+B047,,Annual Fee 2023,50.0,2023,Sticker
+B047,,Annual Fee 2024,50.0,2024,Sticker
+B047,,Guard Fee - Raya,30.0,2025,Sticker
+B047,,Guard Fee - April 2025,30.0,2025,Sticker
+B048,,Membership Fee,10.0,2023,Sticker
+B048,,Annual Fee 2023,50.0,2023,Sticker
+B048,,Annual Fee 2024,50.0,2024,Sticker
+B048,,Guard Fee - Raya,30.0,2025,Sticker
+B048,,Guard Fee - April 2025,30.0,2025,Sticker
+B049,,Membership Fee,10.0,2023,Sticker
+B049,,Annual Fee 2023,50.0,2023,Sticker
+B049,,Guard Fee - Raya,30.0,2025,Sticker
+B049,,Guard Fee - April 2025,30.0,2025,Sticker
+B050,,Membership Fee,10.0,2023,Sticker
+B050,,Annual Fee 2023,50.0,2023,Sticker
+B050,,Annual Fee 2024,50.0,2024,Sticker
+B050,,Guard Fee - Raya,30.0,2025,Sticker
+B050,,Guard Fee - April 2025,30.0,2025,Sticker
+B051,,Membership Fee,10.0,2023,Sticker
+B051,,Annual Fee 2023,50.0,2023,Sticker
+B051,,Annual Fee 2024,50.0,2024,Sticker
+B051,,Guard Fee - Raya,30.0,2025,Sticker
+B051,,Guard Fee - April 2025,30.0,2025,Sticker
+B052,,Membership Fee,10.0,2023,Sticker
+B052,,Annual Fee 2023,50.0,2023,Sticker
+B052,,Guard Fee - Raya,30.0,2025,Sticker
+B052,,Guard Fee - April 2025,30.0,2025,Sticker
+B053,,Membership Fee,10.0,2023,Sticker
+B053,,Annual Fee 2023,50.0,2023,Sticker
+B053,,Guard Fee - Raya,30.0,2025,Sticker
+B053,,Guard Fee - April 2025,30.0,2025,Sticker
+B054,,Membership Fee,10.0,2023,Sticker
+B054,,Annual Fee 2023,50.0,2023,Sticker
+B054,,Annual Fee 2024,50.0,2024,Sticker
+B054,,Guard Fee - Raya,30.0,2025,Sticker
+B054,,Guard Fee - April 2025,30.0,2025,Sticker
+B055,,Membership Fee,10.0,2023,Sticker
+B055,,Annual Fee 2023,50.0,2023,Sticker
+B055,,Annual Fee 2024,50.0,2024,Sticker
+B055,,Guard Fee - Raya,30.0,2025,Sticker
+B055,,Guard Fee - April 2025,30.0,2025,Sticker
+B056,,Membership Fee,10.0,2023,Sticker
+B056,,Annual Fee 2023,50.0,2023,Sticker
+B056,,Annual Fee 2024,50.0,2024,Sticker
+B056,,Guard Fee - Raya,30.0,2025,Sticker
+B056,,Guard Fee - April 2025,30.0,2025,Sticker
+B057,,Membership Fee,10.0,2023,Sticker
+B057,,Annual Fee 2023,50.0,2023,Sticker
+B057,,Guard Fee - Raya,30.0,2025,Sticker
+B057,,Guard Fee - April 2025,30.0,2025,Sticker
+B058,,Membership Fee,10.0,2023,Sticker
+B058,,Annual Fee 2023,50.0,2023,Sticker
+B058,,Guard Fee - Raya,30.0,2025,Sticker
+C002,,Membership Fee,10.0,2023,Sticker
+C002,,Annual Fee 2023,50.0,2023,Sticker
+C002,,Guard Fee - Raya,30.0,2025,Sticker
+C002,,Guard Fee - April 2025,30.0,2025,Sticker
+C004,,Membership Fee,10.0,2023,Sticker
+C004,,Annual Fee 2023,50.0,2023,Sticker
+C004,,Annual Fee 2024,50.0,2024,Sticker
+C004,,Guard Fee - Raya,30.0,2025,Sticker
+C004,,Guard Fee - April 2025,30.0,2025,Sticker
+C006,,Membership Fee,10.0,2023,Sticker
+C006,,Annual Fee 2023,50.0,2023,Sticker
+C006,,Guard Fee - Raya,30.0,2025,Sticker
+C006,,Guard Fee - April 2025,30.0,2025,Sticker
+C008,,Membership Fee,10.0,2023,Sticker
+C008,,Annual Fee 2023,50.0,2023,Sticker
+C008,,Annual Fee 2024,50.0,2024,Sticker
+C008,,Guard Fee - Raya,30.0,2025,Sticker
+C008,,Guard Fee - April 2025,30.0,2025,Sticker
+C010,,Guard Fee - Raya,30.0,2025,Sticker
+C012,,Membership Fee,10.0,2023,Sticker
+C012,,Annual Fee 2023,50.0,2023,Sticker
+C012,,Guard Fee - Raya,30.0,2025,Sticker
+C012,,Guard Fee - April 2025,30.0,2025,Sticker
+C014,,Membership Fee,10.0,2023,Sticker
+C014,,Annual Fee 2023,50.0,2023,Sticker
+C014,,Guard Fee - Raya,30.0,2025,Sticker
+C014,,Guard Fee - April 2025,30.0,2025,Sticker
+C016,,Membership Fee,10.0,2023,Sticker
+C016,,Annual Fee 2023,50.0,2023,Sticker
+C016,,Annual Fee 2024,50.0,2024,Sticker
+C016,,Guard Fee - Raya,30.0,2025,Sticker
+C016,,Guard Fee - April 2025,30.0,2025,Sticker
+C018,,Membership Fee,10.0,2023,Sticker
+C018,,Annual Fee 2023,50.0,2023,Sticker
+C018,,Annual Fee 2024,50.0,2024,Sticker
+C018,,Guard Fee - Raya,30.0,2025,Sticker
+C018,,Guard Fee - April 2025,30.0,2025,Sticker
+C020,,Membership Fee,10.0,2023,Sticker
+C020,,Annual Fee 2023,50.0,2023,Sticker
+C020,,Annual Fee 2024,50.0,2024,Sticker
+C020,,Guard Fee - Raya,30.0,2025,Sticker
+C020,,Guard Fee - April 2025,30.0,2025,Sticker
+C022,,Annual Fee 2024,50.0,2024,Sticker
+C022,,Guard Fee - Raya,30.0,2025,Sticker
+C024,,Membership Fee,10.0,2023,Sticker
+C024,,Annual Fee 2023,50.0,2023,Sticker
+C024,,Guard Fee - Raya,30.0,2025,Sticker
+C024,,Guard Fee - April 2025,30.0,2025,Sticker
+C026,,Membership Fee,10.0,2023,Sticker
+C026,,Annual Fee 2023,50.0,2023,Sticker
+C026,,Guard Fee - Raya,30.0,2025,Sticker
+C026,,Guard Fee - April 2025,30.0,2025,Sticker
+C028,,Guard Fee - Raya,30.0,2025,Sticker
+C028,,Guard Fee - April 2025,30.0,2025,Sticker
+C030,,Membership Fee,10.0,2023,Sticker
+C030,,Annual Fee 2023,50.0,2023,Sticker
+C030,,Guard Fee - Raya,30.0,2025,Sticker
+C030,,Guard Fee - April 2025,30.0,2025,Sticker
+C032,,Guard Fee - Raya,30.0,2025,Sticker
+C032,,Guard Fee - April 2025,30.0,2025,Sticker
+C034,,Membership Fee,10.0,2023,Sticker
+C034,,Annual Fee 2023,50.0,2023,Sticker
+C034,,Annual Fee 2024,10.0,2024,Sticker
+C034,,Guard Fee - Raya,30.0,2025,Sticker
+C034,,Guard Fee - April 2025,30.0,2025,Sticker
+C038,,Membership Fee,10.0,2023,Sticker
+C038,,Annual Fee 2023,50.0,2023,Sticker
+C038,,Guard Fee - Raya,30.0,2025,Sticker
+C038,,Guard Fee - April 2025,30.0,2025,Sticker
+C040,,Membership Fee,10.0,2023,Sticker
+C040,,Annual Fee 2023,50.0,2023,Sticker
+C040,,Guard Fee - Raya,30.0,2025,Sticker
+C040,,Guard Fee - April 2025,30.0,2025,Sticker
+C042,,Membership Fee,10.0,2023,Sticker
+C042,,Annual Fee 2023,50.0,2023,Sticker
+C042,,Guard Fee - Raya,30.0,2025,Sticker
+C042,,Guard Fee - April 2025,30.0,2025,Sticker
+C044,,Membership Fee,10.0,2023,Sticker
+C044,,Annual Fee 2023,50.0,2023,Sticker
+C044,,Annual Fee 2024,50.0,2024,Sticker
+C044,,Guard Fee - Raya,30.0,2025,Sticker
+C044,,Guard Fee - April 2025,30.0,2025,Sticker
+C050,,Guard Fee - Raya,30.0,2025,Sticker
+C050,,Guard Fee - April 2025,30.0,2025,Sticker
+C052,,Membership Fee,10.0,2023,Sticker
+C052,,Annual Fee 2023,50.0,2023,Sticker
+C052,,Annual Fee 2024,50.0,2024,Sticker
+C052,,Guard Fee - Raya,30.0,2025,Sticker
+C052,,Guard Fee - April 2025,30.0,2025,Sticker
+C054,,Guard Fee - Raya,30.0,2025,Sticker
+C056,,Guard Fee - April 2025,30.0,2025,Sticker
+C058,,Membership Fee,10.0,2024,Sticker
+C058,,Annual Fee 2023,50.0,2023,Sticker
+C058,,Annual Fee 2024,50.0,2024,Sticker
+C058,,Guard Fee - Raya,30.0,2025,Sticker
+C058,,Guard Fee - April 2025,30.0,2025,Sticker

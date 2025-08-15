@@ -1,0 +1,157 @@
+resident_id,alley,house_number,resident_name,sheet_name
+A001,A,1,Ameer Shah,Fee Halya 1
+A002,A,2,Logaruthran A/L Muniappan,Fee Halya 1
+A003,A,3,Ramohan A/L Narasimma Roa,Fee Halya 1
+A004,A,4,Muhamad Zaiful Azree Bin Khairi,Fee Halya 1
+A005,A,5,Uma Rani A/P Rama Rao,Fee Halya 1
+A006,A,6,"Muhammad Yadi bin Bedin
+ & Sharmini Abdul Karim",Fee Halya 1
+A007,A,7,Afiq Izhharuddin bin Ahmad & Siti Nadzirah binti Azmi,Fee Halya 1
+A008,A,8,Tan Choon Kiat,Fee Halya 1
+A009,A,9,"Syuhaida Bt. Mansor
+ & Khairuddin B. Mohamed",Fee Halya 1
+A010,A,10,Delimawati binti Sabri & Norazwin Azreen bin Samsudin,Fee Halya 1
+A011,A,11,Shahrul & Nurul Izah Binti Ismail,Fee Halya 1
+A012,A,12,Iqbal Izat bin Abdullah & Masnorain Afiqah,Fee Halya 1
+A013,A,13,Mustaffa bin Shahim & Zetti Asthar,Fee Halya 1
+A014,A,14,"Muhd Fizree Syafiq
+ & Irma",Fee Halya 1
+A015,A,15,Mohammad Asdwandi & Farazila,Fee Halya 1
+A016,A,16,Hafiz & Diana,Fee Halya 1
+A017,A,17,Khairi & Ila,Fee Halya 1
+A018,A,18,Rahman & Ida,Fee Halya 1
+A019,A,19,Sujen Nair A/L Thamodaran Nair,Fee Halya 1
+A020,A,20,Shantini A/P Krishnan,Fee Halya 1
+A021,A,21,Muhammad Nazrul Hanif Bin M Harith / Nur Azereen Bt Azlan,Fee Halya 1
+A022,A,22,Azmil bin Aziz / Nor Ain Firdaus,Fee Halya 1
+A023,A,23,nur faseha,Fee Halya 1
+A024,A,24,nur faseha,Fee Halya 1
+A025,A,25,Wan Hashim & Nurlizawati,Fee Halya 1
+A026,A,26,Hadi Putra & Aliesa,Fee Halya 1
+A027,A,27,Muhamad Azhar Bin Abdul Khahar & Patin Fatihah,Fee Halya 1
+A028,A,28,Che Ku Mohamad Hakim bin Che Ku Abdullah & Noor Alyaa Amira,Fee Halya 1
+A029,A,29,Siti Radziah (azi),Fee Halya 1
+A030,A,30,Fazli bin Hamidi,Fee Halya 1
+A031,A,31,Muhammad Faiz bin Rasali@Rusli & Nurul Ain Wahida bte Abu Bakar,Fee Halya 1
+A032,A,32,Nek Khairul Amri bin Nek Yusuf,Fee Halya 1
+A033,A,33,Rajeswary Gunnusen,Fee Halya 1
+A034,A,34,Aznan bin Razali & Nur Fathiha Binti Mohd Sabri,Fee Halya 1
+A035,A,35,Ida & Rizal,Fee Halya 1
+A036,A,36,Shahrul Hafeez Bin Ekmal Hijaz,Fee Halya 1
+A037,A,37,Sugarni A/P Ramasamy & Jason Cross A/L Cross Selvadurai,Fee Halya 1
+A038,A,38,Shazwari & Nur ain,Fee Halya 1
+A039,A,39,Fitri,Fee Halya 1
+A040,A,40,Farah Atika binti Ar. Azmi,Fee Halya 1
+A041,A,41,Wan Nazratul Nazrah Binti Wan Kamarudin,Fee Halya 1
+A042,A,42,Darma Wati Binti Khairol & Nor Mazliyanti Binti Khairol,Fee Halya 1
+A043,A,43,Nurul Syazwanie Binti Jamaludin,Fee Halya 1
+A044,A,44,Mohd Zhafran bin Suhaidan & Fify,Fee Halya 1
+A045,A,45,Mohammad Fikri Bin Ismail & Yulia Nurhijriani Binti Syadrinal,Fee Halya 1
+A046,A,46,Mohd Ghouse Azwan bin Mulkan & Najwa bt Jamal Abdul Nasir,Fee Halya 1
+A047,A,47,WanZue & Mohsin,Fee Halya 1
+A048,A,48,Jeyapreya A/P Yekambaram,Fee Halya 1
+A049,A,49,Norashikin Mutalip & Abd Mutalip Raoh bin Saad,Fee Halya 1
+A050,A,50,Aiman Bin Aminuddin,Fee Halya 1
+A051,A,51,Prakash & Sharinya,Fee Halya 1
+A052,A,52,"Che Muhammad Alif Asyraf
+ & Tengku Wook Khatijah",Fee Halya 1
+A053,A,53,Mohd Amirul & Nurul Husna,Fee Halya 1
+A054,A,54,Mohammad Syafiq bin Zulkifli & Puteri Nurshahirah Binti Zulhelmy,Fee Halya 1
+A055,A,55,Mohd Khairul Bin Abdullah & Atirah,Fee Halya 1
+A056,A,56,Haizo & Ain,Fee Halya 1
+A057,A,57,Mohamad Seth bin Akil & Nurdalila,Fee Halya 1
+A058,A,58,Amirul Alif Bin Zai & Izwa,Fee Halya 1
+A060,A,60,Nur' Mohd Farhan Bin Mohd Hamil & Yusnia Binti Ismail,Fee Halya 1
+A062,A,62,Ahmad Shuqairy bin Kamarudin & Huslinda Husnon,Fee Halya 1
+B001,B,1,Mohd Hafez & Nurul Azyan,Fee Halya 1
+B002,B,2,Gowinder Singh & Thurga Rajamorly,Fee Halya 1
+B003,B,3,Junaidah Binti Abdullah,Fee Halya 1
+B004,B,4,Ahmad Faisal Bin Zaini,Fee Halya 1
+B006,B,6,Dzaizul Khalfan & Zarith Sarahlissa,Fee Halya 1
+B007,B,7,Sivanissh & Daneeta,Fee Halya 1
+B008,B,8,Zulhilmi bin Abdul Rahim & Nik Marzan Binti Mohamad,Fee Halya 1
+B009,B,9,Tineas A/L Jayakumaran,Fee Halya 1
+B010,B,10,Yasotha Planiappan & Mathivanan Geneson - GMY MATHI ENTERPRISE,Fee Halya 1
+B011,B,11,Azlan Arif & Nurul Syafiqah,Fee Halya 1
+B012,B,12,Shanmuha A/L Ganagasundram / Ms. Shaginthina,Fee Halya 1
+B013,B,13,"Nur Diana binti Nordin
+ & Mohamad Danial Fikri bin Nasri",Fee Halya 1
+B014,B,14,Mohd Radhi & Katijah,Fee Halya 1
+B015,B,15,Gunasegaran S/O Balan & Ahrul Mathi D/O Krishnan,Fee Halya 1
+B016,B,16,Mohamad Faiz & Nurul 'Ain,Fee Halya 1
+B017,B,17,Abdullah Arief bin Aminuddin & Siti Nur Ain binti Latif,Fee Halya 1
+B018,B,18,Sharulnizam & Bulqiz,Fee Halya 1
+B019,B,19,David & Shamala,Fee Halya 1
+B020,B,20,"Clairena Emly
+ & Mohammad Cazrin",Fee Halya 1
+B021,B,21,Syafiq & Ainn,Fee Halya 1
+B022,B,22,Adibah binti Abdul Hadi & Muhammad Hafiz bin Azmi,Fee Halya 1
+B023,B,23,Muhammad Syahir bin Muhammad Ismail & Nur Asyiqin,Fee Halya 1
+B024,B,24,Abu Hasani Sazali Azam & Nor Fadhilah,Fee Halya 1
+B025,B,25,Muhamad Bukhari Bin Mohamad Rozali,Fee Halya 1
+B026,B,26,Mustafa Kamal bin Mohd Arih & Noor Sazwani bt Ahmad Sayuti,Fee Halya 1
+B027,B,27,Sarah & DASHIMA FARKHAN BINTI ALI,Fee Halya 1
+B028,B,28,Muhammad Arif Akmal Bin Khalid,Fee Halya 1
+B029,B,29,Norliza Binti Abdul Raffar,Fee Halya 1
+B030,B,30,Manimala A/P Selvanathan,Fee Halya 1
+B031,B,31,Abdullah Anas Bin Abu Bakar & Nurulfitri Nabilah Bt. Azman,Fee Halya 1
+B032,B,32,Mohd Azarul Syazari & Amirah Fasihah,Fee Halya 1
+B033,B,33,Abdul Rahim Bin M Asmuei & Wan Siti Aisyah Binti Wan Said,Fee Halya 1
+B034,B,34,Afidah Adris,Fee Halya 1
+B035,B,35,Adri Bin Norisham & Wan Nurul Hazirah Abu Suffia,Fee Halya 1
+B036,B,36,Mohd Fadeli Bt Md Adnan,Fee Halya 1
+B037,B,37,Izzat Hafizi & Farhanah,Fee Halya 1
+B038,B,38,Fazlan Rezza,Fee Halya 1
+B039,B,39,Iqram & Siti Nur Aisah,Fee Halya 1
+B040,B,40,Ahmad ilyas & Syamimi,Fee Halya 1
+B041,B,41,Mohd Nashrin Abd Samad & Siti Roshidah Abdul Aziz,Fee Halya 1
+B042,B,42,Ezam & Shasha (SUPER DICE ENTERPRISE),Fee Halya 1
+B043,B,43,MOHD BASIR BIN ROSLAN & Noor Fazlenda Binti Abdullah,Fee Halya 1
+B044,B,44,Mohd Firdaus Ishak / Melor Johar,Fee Halya 1
+B045,B,45,Rajan / Catharine Maria,Fee Halya 1
+B046,B,46,Yip Lai Mei,Fee Halya 1
+B047,B,47,Adlan & Dr. Aimi,Fee Halya 1
+B048,B,48,Gunaseelan Kanisan & Thevagi Gunalan,Fee Halya 1
+B049,B,49,Norizzat bin Mohd Jais & Nadhirah,Fee Halya 1
+B050,B,50,"Chin Kar Koay
+ & Ching",Fee Halya 1
+B051,B,51,Mohd Redzuan bin Alias & Nur Fadilah binti Razali,Fee Halya 1
+B052,B,52,Noorhaliman bin Mohd Noor Halim & Siri Aisyah binti Mohd Fauzi,Fee Halya 1
+B053,B,53,Norzureimy bin Mursal & Marlia binti Ramli,Fee Halya 1
+B054,B,54,Muhammad Hafeez,Fee Halya 1
+B055,B,55,Shaufiq Rashid & Sya,Fee Halya 1
+B056,B,56,Marcus Lee Mun Leong,Fee Halya 1
+B057,B,57,Baaneshwaran & Sivaramakrishnan,Fee Halya 1
+B058,B,58,Rudieyansyah/Nor Khairulbariyah Binti Abdul Ghaffar,Fee Halya 1
+C002,C,2,"Mohd Nazri bin Mat Nasir
+& Nor Amiza binti Isa",Fee Halya 1
+C004,C,4,"Mohd Hafiz bin Norhazale
+ & Intan Sakina binti Shaari",Fee Halya 1
+C006,C,6,M. Zahrul Naim B M. Noor & Nuraizatul Saufia Abdullah,Fee Halya 1
+C008,C,8,Muhammad Akmal bin Khurram & Sarah Mahirah binti Mohd Sahil,Fee Halya 1
+C010,C,10,Haridas A/L Vijayakumar,Fee Halya 1
+C012,C,12,Nor Azmi Bin Mat Nor,Fee Halya 1
+C014,C,14,Mohd Norzairin Bin Zainan,Fee Halya 1
+C016,C,16,Sheila Farrah & Muhamad Safri,Fee Halya 1
+C018,C,18,Wardatul Hayat Adnan,Fee Halya 1
+C020,C,20,Shirmy Hafizal & Aida Natasha,Fee Halya 1
+C022,C,22,Muhammad Aizuddin Bin Jaafar,Fee Halya 1
+C024,C,24,Mohd Azren Bin Ghazali,Fee Halya 1
+C026,C,26,Muhammad Fathi bin Samsul Anuar,Fee Halya 1
+C028,C,28,Mohd Sahil bin Zabidi,Fee Halya 1
+C030,C,30,Logan Harmonia Scape,Fee Halya 1
+C032,C,32,Mohd Azarul / Shazali Misuan / Siti zulaiqa bt Mohd Hasni,Fee Halya 1
+C034,C,34,Mohd Nazri bin Mohd Aspiran & Erneeda binti Amiruddin,Fee Halya 1
+C036,C,36,Patmaavathii A/P Maniam,Fee Halya 1
+C038,C,38,Azlieza Hamzah/Muhammad Fadzli Fadzil,Fee Halya 1
+C040,C,40,Alif Nazrin & Fariha,Fee Halya 1
+C042,C,42,Gunaselan A/L Muneswaran & Krisnaveni Batumalai,Fee Halya 1
+C044,C,44,Muhammad Syahid Bukhari bin Khairuddin & Anis Faizuly binti Hamzah,Fee Halya 1
+C046,C,46,Thiyagarajan A/L Annamalai,Fee Halya 1
+C048,C,48,Muhammad Aizat Bin Mohd Darus,Fee Halya 1
+C050,C,50,Basyarul Hisyam Yaakob,Fee Halya 1
+C052,C,52,Fadzley & Yanti,Fee Halya 1
+C054,C,54,K.Sakthivelan & V.Kokilahmbigai,Fee Halya 1
+C056,C,56,Vanathiyah A/L James,Fee Halya 1
+C058,C,58,Suzahamimi Binti Suhaimin,Fee Halya 1
+B005,B,5,Hazrul Azim & Haizan Bt Abd Rasid,Sticker
